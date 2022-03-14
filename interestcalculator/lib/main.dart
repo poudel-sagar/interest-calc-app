@@ -88,7 +88,7 @@ class _HomePageState extends State<HomePage> {
                 setState(() {
 
                  
-                  
+                  //formula 
                   result =
                       ((double.parse(p) * double.parse(t) * double.parse(r)) /
                               100)
